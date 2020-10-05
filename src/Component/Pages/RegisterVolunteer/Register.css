@@ -1,0 +1,36 @@
+.logo{
+    text-align: center;
+}
+.logo img{
+    width: 200px;
+    margin: 30px 0;  
+}
+.register-area{
+    width: 550px;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 5px gray;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.form-control-input{
+    outline: none;
+    display: block;
+    border: none!important;
+    border-bottom: 1px solid lightgray!important;
+}
+.reg-from{
+    margin: 0 auto;
+    width: 100%;
+}
+.volunteer-box{
+    box-shadow: 0 0 8px gray;
+    border-radius: 10px;
+    padding: 25px;
+   
+    margin-bottom: 29px;
+    
+}
+.defaultImg img{
+    width: 200px;
+}

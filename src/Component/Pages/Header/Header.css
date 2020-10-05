@@ -1,0 +1,28 @@
+.nav-logo img{
+    width: 150px;
+}
+.main-nav-item .nav-items{
+    padding: 0 20px
+}
+.btn-style{
+    color: #fff;
+    border-radius: 10px;
+    transition: all .5s;
+    cursor: pointer;
+}
+.btn-style:hover{
+    background-color: #0f4386!important;
+}
+.header-search--method{
+    width: 100%;
+    padding: 15px 0; 
+}
+.header-search{
+    margin: 0 auto;
+}
+.header-input{
+    width: 400px!important;
+}
+.header-search-btn{
+    width: 130px;
+}
